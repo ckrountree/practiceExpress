@@ -1,0 +1,17 @@
+{
+  "name": "practice-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CK Rountree <jmail0207@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
